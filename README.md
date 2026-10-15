@@ -1,63 +1,47 @@
-# Loc Khanh Nguyen 🌟  
-**PhD Candidate in Data Science**  
-Victoria University of Wellington, New Zealand  
-📍 Wellington, New Zealand  
+# Loc K. Nguyen
 
-[📧 Email](mailto:khanhloc.nguyen@vuw.ac.nz) | [💼 LinkedIn](https://www.linkedin.com/in/loc-khanh-nguyen/) | [📚 Google Scholar](https://scholar.google.com/citations?user=ZBugPikAAAAJ&hl=en)
+**Data science · Applied machine learning · Scientific computing**<br>
+Wellington, New Zealand · PhD candidate in Data Science, Victoria University of Wellington<br>
+**Thesis submitted 15 October 2026.**
 
----
+[Portfolio](https://loc-k-nguyen.github.io/loc-k-nguyen/) · [Google Scholar](https://scholar.google.com/citations?user=ZBugPikAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-0561-6659) · [LinkedIn](https://www.linkedin.com/in/loc-khanh-nguyen/) · [Email](mailto:nguyenkloc122@gmail.com)
 
-## 👋 About Me  
+I build and evaluate machine learning models for environmental simulation, computer vision, and biomedical research. My work connects data preparation, statistical analysis, model development, and reproducible research software. I also teach programming, statistics, and machine learning.
 
-I am a passionate **PhD candidate in Data Science** with 5+ years of experience in **machine learning**, **deep learning**, and **computer vision**. My research focuses on **Generative Deep Learning Models** for simulating groundwater transport with applications in environmental science.  
+I am open to **data science, applied ML, analytics, research software, and academic opportunities** in New Zealand.
 
-Beyond my academic pursuits, I have worked on real-world projects in bioinformatics, computational biochemistry, and AI-based drug discovery. My goal is to create innovative solutions for complex challenges in healthcare, environmental studies, and beyond.  
+## Selected research software
 
----
+| Project | What to explore |
+| :--- | :--- |
+| [Groundwater plume forecasting](https://github.com/loc-k-nguyen/groundwater-plume-forecasting) | PyTorch forecasting from observed plume histories, seed-aligned comparisons, and CPU reproducibility checks. Associated paper conditionally accepted to the ACML 2026 Journal Track. |
+| [Groundwater surrogate benchmark](https://github.com/loc-k-nguyen/groundwater-surrogate-benchmark) | Audits of generator-induced dependence, evaluation on fresh-seed geology, and engineering trade-offs. Associated manuscript under review. |
+| [Groundwater surrogate reliability](https://github.com/loc-k-nguyen/groundwater-surrogate-reliability) | Uncertainty and distribution-shift diagnostics, conformal evaluation, and reproducible scalar analysis. Associated manuscript under review. |
+| [Salmon X-ray screening](https://github.com/loc-k-nguyen/salmon-spinal-deformity-xray-ai) | Computer vision for detecting and screening spinal deformities in salmon X-ray images. Related papers at IVCNZ 2024 and 2025. |
 
-## 💡 Research Interests  
+The groundwater repositories are code releases with documented scope and data-access limits. Public code does not imply that simulation fields or trained checkpoints are distributed. See each repository's reproduction guide.
 
-- **Machine Learning & Deep Learning**  
-- **Computer Vision & Image Processing**  
-- **Bioinformatics & Computational Biochemistry**  
-- **Drug Discovery & Molecular Docking**  
-- **AI for Environmental Applications**  
+## Research and teaching
 
----
+- **Doctoral research:** data dependence, temporal generalization, and reliability of neural groundwater-transport surrogates. Thesis submitted; degree not yet conferred.
+- **Publications:** 16 peer-reviewed papers, including three accepted at ICONIP 2026, plus one conditionally accepted to the ACML 2026 Journal Track (*Machine Learning*). Formal journal acceptance remains conditional. Full publication record on [Google Scholar](https://scholar.google.com/citations?user=ZBugPikAAAAJ&hl=en).
+- **Teaching:** data science tutor and teaching assistant at Victoria University of Wellington, February 2023 to June 2026, covering programming, statistical modeling, and machine learning.
+- **Applied experience:** research data quality and reporting at VUW; research contracts with Whitireia and WelTec; live sports data collection with IMG ARENA; computer vision at Smart Vision.
+- **Service:** peer reviewer for PLOS ONE, PeerJ Computer Science, and BMC.
 
-## 🏆 Achievements  
+## Technical focus
 
-- **ESR Scholarship Recipient** (PhD, Victoria University of Wellington, 2022–2025).  
-- **Full Scholarship** for B.S. in Chemistry at International University – VNU HCMC.  
-- Co-authored **10+ research papers** in renowned journals like *Journal of Chemical Information and Modeling*.  
-- Developed **Vietnam’s first online herbal medicine database**: [VietHerb](https://vietherb.com.vn).  
+**Programming and analysis:** Python, R, SQL, pandas, NumPy, SciPy<br>
+**Machine learning:** PyTorch, TensorFlow, scikit-learn, OpenCV<br>
+**Reporting and software:** Matplotlib, Seaborn, Power BI, Git, Docker
 
----
+## Selected credentials
 
-## 🔬 Research Highlights  
+- DataCamp **AI Engineer for Data Scientists Associate**, October 2026
+- DataCamp **Data Analyst Associate**, September 2026
+- [Databricks Fundamentals accreditation](https://credentials.databricks.com/17a36849-e842-4535-a77d-bceb78866531), January 2026
+- [Google Advanced Data Analytics Capstone](https://www.coursera.org/account/accomplishments/records/VJVD5YA09Y8U), January 2026
 
-### Current Projects  
-- **Groundwater Hydrology Simulation**: Leveraging deep learning to enhance environmental modeling.  
-- **King Salmon Vertebral Deformity Analysis**: Using advanced computer vision techniques for fish health assessment.  
+For roles or collaborations, contact [nguyenkloc122@gmail.com](mailto:nguyenkloc122@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/loc-khanh-nguyen/).
 
-### Past Projects  
-- **Selective Kinase Inhibitor Discovery**: Deep learning for drug development.  
-- **AI in Security & Surveillance**: Real-time object detection for urban safety.  
-- **iPTP1B-3L**: Ensemble models for identifying PTP1B inhibitors.  
-
----
-
-## 📚 Publications  
-
-Access my full list of research papers on [Google Scholar](https://scholar.google.com/citations?user=ZBugPikAAAAJ&hl=en).  
-
----
-
-## 🌟 Let's Collaborate!  
-
-I'm always open to exploring new ideas and collaborations in data science, AI, and computational research. Feel free to connect with me:  
-
-[📧 Email](mailto:khanhloc.nguyen@vuw.ac.nz) | [💼 LinkedIn](https://www.linkedin.com/in/loc-khanh-nguyen/)  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<sub>Updated 15 October 2026.</sub>

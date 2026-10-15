@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loc-k-nguyen.github.io/loc-k-nguyen/sitemap.xml
