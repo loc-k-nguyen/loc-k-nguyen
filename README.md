@@ -14,7 +14,7 @@ I am open to **data science, applied ML, analytics, research software, and acade
 
 | Project | What to explore |
 | :--- | :--- |
-| [NZ Housing Explorer](https://github.com/loc-k-nguyen/loc-nz-data-ai-portfolio) | [Interactive public-data dashboard](https://loc-k-nguyen.github.io/loc-nz-data-ai-portfolio/): Python preparation, parameterized SQLite queries, quality checks, reporting, and CSV downloads using a preserved HUD extract. |
+| [NZ Housing Explorer](https://github.com/loc-k-nguyen/loc-nz-data-ai-portfolio) | [Interactive public-data dashboard](https://loc-k-nguyen.github.io/loc-nz-data-ai-portfolio/): Python preparation, parameterized SQLite queries, quality checks, reporting, and CSV downloads using a preserved HUD extract. [Completed Power BI report](https://loc-k-nguyen.github.io/loc-nz-data-ai-portfolio/#powerbi): Power Query, a star model, twenty DAX measures, three pages and verified Desktop calculations. Download PBIX or preview the native PDF. |
 | [Groundwater plume forecasting](https://github.com/loc-k-nguyen/groundwater-plume-forecasting) | PyTorch forecasting from observed plume histories, seed-aligned comparisons, and CPU reproducibility checks. Associated paper conditionally accepted to the ACML 2026 Journal Track. |
 | [Groundwater surrogate benchmark](https://github.com/loc-k-nguyen/groundwater-surrogate-benchmark) | Audits of generator-induced dependence, evaluation on fresh-seed geology, and engineering trade-offs. Associated manuscript under review. |
 | [Groundwater surrogate reliability](https://github.com/loc-k-nguyen/groundwater-surrogate-reliability) | Uncertainty and distribution-shift diagnostics, conformal evaluation, and reproducible scalar analysis. Associated manuscript under review. |
@@ -52,4 +52,4 @@ The groundwater repositories are code releases with documented scope and data-ac
 
 For roles or collaborations, contact [nguyenkloc122@gmail.com](mailto:nguyenkloc122@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/loc-khanh-nguyen/).
 
-<sub>Updated 15 October 2026.</sub>
+<sub>Updated 16 October 2026.</sub>
